@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoC_FbLoginViaOauth", "PoC_FbLoginViaOauth\PoC_FbLoginViaOauth\PoC_FbLoginViaOauth.csproj", "{75BD736B-A329-4A59-82BC-61AAC3908E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoC_FbLoginViaOauth.Android", "PoC_FbLoginViaOauth\PoC_FbLoginViaOauth.Android\PoC_FbLoginViaOauth.Android.csproj", "{294505BB-4179-415C-8615-E27C9E823BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BD736B-A329-4A59-82BC-61AAC3908E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BD736B-A329-4A59-82BC-61AAC3908E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BD736B-A329-4A59-82BC-61AAC3908E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BD736B-A329-4A59-82BC-61AAC3908E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294505BB-4179-415C-8615-E27C9E823BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294505BB-4179-415C-8615-E27C9E823BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294505BB-4179-415C-8615-E27C9E823BAD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{294505BB-4179-415C-8615-E27C9E823BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294505BB-4179-415C-8615-E27C9E823BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294505BB-4179-415C-8615-E27C9E823BAD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56F34143-E523-438A-9FF5-BE9F78663273}
+	EndGlobalSection
+EndGlobal
