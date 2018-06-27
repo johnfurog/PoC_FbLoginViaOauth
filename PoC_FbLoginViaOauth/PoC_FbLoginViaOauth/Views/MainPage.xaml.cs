@@ -30,7 +30,7 @@ namespace PoC_FbLoginViaOauth.Views
 
             if (auth_code != "")
             {
-
+                //use auth_code 
             }
         }
 
